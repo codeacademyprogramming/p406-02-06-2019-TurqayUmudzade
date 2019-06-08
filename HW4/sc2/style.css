@@ -1,0 +1,56 @@
+body{
+    background: #8E2DE2; 
+    background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);  
+    background: linear-gradient(to right, #4A00E0, #8E2DE2); 
+    padding: 40px;
+    margin-top: auto 60px;
+    color: rgb(218, 212, 212);
+    font-family: 'Lato', sans-serif; 
+}
+
+h1{
+    letter-spacing: 2px;
+    color: white;
+}
+
+h4{
+    color: white;
+}
+
+p{
+    font-weight: 100;
+    font-size: 15px;
+}
+span{
+    font-weight: bold;
+    color: white;
+}
+
+textarea{
+    resize: none;
+}
+
+form{
+    width: 100%;
+    margin: 5px auto;
+}
+
+input,textarea{
+    width: 100%;
+    border-radius: 4px;
+}
+
+input{
+    height: 35px;
+}
+
+button{
+    background-color: black;
+    width: 150px;
+    height: 35px;
+    color: white;
+    border: 0.5px solid black;
+    border-radius: 4px;
+    padding: 10px;
+    margin-top: 5px;
+}
